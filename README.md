@@ -5,10 +5,8 @@
 - Html
 - Javascript?
 - Css?
-- HTMX?
-
 
 ## Python Packages Used
--  Django
-- mySQL
-- 
+- Django -> used for making all backend
+- mySQL -> stores website data ie login, etc
+- HTMX -> used for front end website
