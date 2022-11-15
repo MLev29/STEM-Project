@@ -1,6 +1,7 @@
 # CAS-STUFF
+## Project Plan 
 
-## Coding Language 
+## Coding Language Used
 - Python
 - Html
 - Javascript?
