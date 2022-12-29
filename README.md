@@ -3,8 +3,8 @@
 
 ## Coding Language Used
 - Python
-- Html
-- Css
+- HTML
+- CSS
 - Javascript?
 
 
