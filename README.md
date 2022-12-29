@@ -4,8 +4,9 @@
 ## Coding Language Used
 - Python
 - Html
+- Css
 - Javascript?
-- Css?
+
 
 ## Python Packages Used
 - Django -> used for making all backend
