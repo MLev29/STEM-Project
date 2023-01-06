@@ -17,4 +17,4 @@
 ## To Do
 - Add a public domain
 - Finish site front end
-- fix
+- general bug fix
