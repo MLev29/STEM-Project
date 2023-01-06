@@ -4,7 +4,7 @@
 ## Coding Language Used
 - Python ✔️
 - HTML   ✔️
-- CSS    ✔️
+- CSS     ✔️
 - Javascript?
 
 
