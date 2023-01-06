@@ -2,13 +2,13 @@
 ## Project Plan 
 
 ## Coding Language Used
-- Python
-- HTML
-- CSS
+- Python ✔️
+- HTML   ✔️
+- CSS    ✔️
 - Javascript?
 
 
 ## Python Packages Used
 - Django -> used for making all backend
-- mySQL -> stores website data ie login, etc
-- HTMX -> used for front end website
+- mySQL -> stores website data ie login, admin data, etc
+-
