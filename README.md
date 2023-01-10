@@ -1,5 +1,6 @@
 # CAS-STUFF
 ## Project Plan 
+This project Aims to build a website by programming it from scratch. Moreover the website will document the process of building the website throughout the weeks.
 
 ## Coding Language Used
 - Python ✔️
