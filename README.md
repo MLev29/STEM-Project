@@ -6,16 +6,22 @@ This project Aims to build a website by programming it from scratch. Moreover th
 - Python ✔️
 - HTML   ✔️
 - CSS     ✔️
-- Javascript?
+- Javascript
 
 
 ## Python Packages Used
 - Django -> used for making all backend
 - mySQL -> stores website data ie login, admin data, etc
--
+
+## Hosting
+Potential hosting services:
+- Microsoft Azure
+- Heroku
+- Github?
 
 
 ## To Do
 - Add a public domain
 - Finish site front end
 - general bug fix
+- finish last code sample section
