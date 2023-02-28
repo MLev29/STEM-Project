@@ -1,0 +1,37 @@
+==========================================================================
+                                Timeline
+==========================================================================
+
+21/10/2022
+    -> Project started
+    -> Implemented python to later support the HTML, CSS & js code
+        -> Created project `manage.py` & other essential files
+
+10/11/2022
+    -> Implemented directory `mysite_test`
+    -> Created first sub page using Django API
+
+13/11/2020
+    -> Implemented landing page
+
+15/11/2022
+    -> Deprecated old home page
+    -> Implemented new landing page
+
+3/12/2022
+    -> General bug fixes
+
+28/12/2022 
+    -> Fixed Footer
+
+22/2/2023
+    -> Fixed desc.
+
+23/2/2023
+    -> Implemented new sections
+        - code showcase 
+        - Bootstrap 
+    -> General bug fixes
+28/2/2023
+    -> git push to GitHub repository
+==========================================================================
