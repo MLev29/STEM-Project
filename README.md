@@ -25,3 +25,6 @@ Potential hosting services:
 - Finish site front end
 - general bug fix
 - finish last code sample section
+
+
+Note: Full updates log can be found under `STEM_STUFF/Django_Test/implemented.log`
